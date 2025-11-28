@@ -4,83 +4,87 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing: '6rem'
+  spacing: '4rem'
 
 sections:
 
-  # BIO SECTION
+  # ABOUT
   - block: resume-biography-3
-    id: bio
+    id: about
     content:
       username: admin
-      text: ''
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      text: ""
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: "About"
+        education: ""
+        interests: ""
     design:
       css_class: hbx-bg-gradient
       avatar:
         size: medium
         shape: circle
 
-  # RESEARCH SECTION
-  - block: markdown
-    id: research
+  # EDUCATION
+  - block: resume-experience
+    id: education
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Replace this text with your actual research summary.
+      title: Education
+      username: admin
+      section: education   # MUST MATCH admin/_index.md key
     design:
-      columns: '1'
+      view: stacked
 
-  # FEATURED PAPERS
-  - block: collection
-    id: papers
+  # EXPERIENCE
+  - block: resume-experience
+    id: experience
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
+      title: Experience
+      username: admin
+      section: work
     design:
-      view: article-grid
-      columns: 2
+      view: stacked
 
-  # RECENT PAPERS
-  - block: collection
-    id: papers-all
+  # AWARDS
+  - block: resume-experience
+    id: awards
     content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      title: Awards
+      username: admin
+      section: awards
     design:
-      view: citation
+      view: stacked
 
   # TALKS
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - events
     design:
       view: card
 
-  # EXPERIENCE SECTION — ADDED NEW BLOCK HERE
-  - block: resume-experience
-    id: experience
+  # PAPERS
+  - block: collection
+    id: papers
     content:
-      title: Experience
-      username: admin
+      title: Papers
+      filters:
+        folders:
+          - publications
     design:
-      view: stacked
+      view: citation
 
+  # PATENTS
+  - block: collection
+    id: patents
+    content:
+      title: Patents
+      filters:
+        folders:
+          - patents
+    design:
+      view: article-grid
+      columns: 1
 ---
