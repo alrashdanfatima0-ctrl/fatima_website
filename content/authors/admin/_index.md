@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Fatima
-last_name: Alrashdan
+last_name: Alrashdan 
 
 # Pronouns (optional)
 pronouns: 
