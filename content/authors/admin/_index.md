@@ -60,23 +60,24 @@ education:
     date_start: 2019-08-01
     date_end: 2024-05-01
     summary: |
-      Thesis on _Wireless Magnetoelectric Communication for Bioelectronics_. Supervised by Prof. Jacob Robinson.
+      Thesis: *Wireless Magnetoelectric Communication for Bioelectronics*.  
+      Supervised by Prof. Jacob Robinson.
+
   - area: MS Electrical Engineering 
     institution: Jordan University of Science and Technology
     icon: ""
     date_start: 2018-09-01
     date_end: 2018-05-31
     summary: |
-    #  GPA: 4.0/4.0
-
       Specialized in power and control engineering.
+
   - area: BS Electrical Engineering
     institution: Jordan University of Science and Technology
     icon: ""
     date_start: 2011-09-01
     date_end: 2015-05-31
     summary: |
-     # GPA: 3.9/4.0
+      Focus in control systems, power electronics, and power systems.
 
 
 work:
