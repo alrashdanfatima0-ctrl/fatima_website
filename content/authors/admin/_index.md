@@ -101,17 +101,17 @@ awards:
     awarder: Rice University  
     summary: |
       Awarded to five graduate students for outstanding achievement and promise
-    - title: MobiCom’2022 Best Paper Award
+ - title: MobiCom’2022 Best Paper Award
     date: 2022-01-01
     awarder: ACM SiIGMOBILE
     summary: |
      Out of 317 submissions
-    - title: The Fifth Bioelectronic Medicine Summit Best Poster Award
+ - title: The Fifth Bioelectronic Medicine Summit Best Poster Award
     date: 2022-01-01
     awarder: The Fifth Bioelectronic Medicine
     summary: |
      
-    - title: Asilomar Bioelectronics Symposium Best Poster Award
+  - title: Asilomar Bioelectronics Symposium Best Poster Award
     date: 2022-01-01
     awarder: Asilomar Bioelectronics Conference
     summary: |
