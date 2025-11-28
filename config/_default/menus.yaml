@@ -28,7 +28,7 @@ main:
     weight: 60
 
   - name: Patents
-    url: "/#patents"
+    url: "/my-patent/"
     weight: 70
  # - name: Projects
  #   url: projects/
