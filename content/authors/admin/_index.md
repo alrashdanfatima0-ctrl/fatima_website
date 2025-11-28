@@ -60,8 +60,7 @@ education:
     date_start: 2019-08-01
     date_end: 2024-05-01
     summary: |
-      Thesis on _Wireless Magnetoelectric Communication for Bioelectronics_. Supervised by Prof. Jacob Robinson. 
-
+      Thesis on _Wireless Magnetoelectric Communication for Bioelectronics_. Supervised by Prof. Jacob Robinson.
   - area: MS Electrical Engineering 
     institution: Jordan University of Science and Technology
     icon: ""
