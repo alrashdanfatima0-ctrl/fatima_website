@@ -58,8 +58,8 @@ education:
   - area: MS Electrical Engineering
     institution: Jordan University of Science and Technology
     icon: ""
-    date_start: 2018-09-01
-    date_end: 2018-05-31
+    date_start: 2016-02-01
+    date_end: 2018-10-31
     summary: |
       Specialized in power and control engineering.
 
@@ -67,7 +67,7 @@ education:
     institution: Jordan University of Science and Technology
     icon: ""
     date_start: 2011-09-01
-    date_end: 2015-05-31
+    date_end: 2016-1-31
     summary: |
       Focus in control systems, power electronics, and power systems.
 
