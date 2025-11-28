@@ -14,7 +14,7 @@ pronouns:
 
 # Status emoji
 status:
-  icon: 🧠 🫀 
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoc Researcher & Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,10 +48,10 @@ profiles:
   #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Bioelectronics
+  - Neuromodulation
+  - Wireless Power and Data Communication 
+  - Translational Technology
 
 education:
   - area: PhD Electrical and Computer Engineering (Neuroengineering Focus)
