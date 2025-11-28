@@ -8,20 +8,21 @@ design:
 
 sections:
 
-  # ABOUT
-  - block: resume-biography-3
-    id: about
-    content:
-      username: admin
-      text: ""
-      headings:
-        about: "About"
-        interests: ""
-    design:
-      css_class: hbx-bg-gradient
-      avatar:
-        size: medium
-        shape: circle
+# ABOUT
+- block: resume-biography-3
+  id: about
+  content:
+    username: admin
+    text: ""
+    headings:
+      about: "About"
+      education: null     # ← required even if you don’t want it
+      interests: ""       # can keep or remove
+  design:
+    css_class: hbx-bg-gradient
+    avatar:
+      size: medium
+      shape: circle
 
   # EDUCATION
   - block: resume-experience
