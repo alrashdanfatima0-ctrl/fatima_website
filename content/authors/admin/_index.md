@@ -57,31 +57,30 @@ education:
   - area: PhD Electrical and Computer Engineering (Neuroengineering Focus)
     institution: Rice University
     icon: ""
-    date_start: 2019
-    date_end: 2024
+    date_start: 2019-08-01
+    date_end: 2024-05-01
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Wireless Magnetoelectric Communication for Bioelectronics_. Supervised by Prof. Jacob Robinson. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+     # text: 'Read Thesis'
+     # url: 'https://example.com/thesis.pdf'
   - area: MS Electrical Engineering 
-    institution: Carnegie Mellon University
+    institution: Jordan University of Science and Technology
     icon: ""
-    date_start: 2013-09-01
+    date_start: 2018-09-01
+    date_end: 2018-05-31
+    summary: |
+    #  GPA: 4.0/4.0
+
+      Specialized in power and control engineering.
+  - area: BS Electrical Engineering
+    institution: Jordan University of Science and Technology
+    icon: ""
+    date_start: 2011-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
+     # GPA: 3.9/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
