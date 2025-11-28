@@ -16,7 +16,6 @@ sections:
       text: ""
       headings:
         about: "About"
-        education: ""
         interests: ""
     design:
       css_class: hbx-bg-gradient
