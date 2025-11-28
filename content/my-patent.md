@@ -3,6 +3,7 @@ title: "Patents"
 date: 2025-01-01
 type: page
 draft: false
+show_table_of_contents: false
 ---
 
 Below is a list of patents I have contributed to.
