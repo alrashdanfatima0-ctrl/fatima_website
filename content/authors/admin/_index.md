@@ -67,13 +67,13 @@ education:
     institution: Jordan University of Science and Technology
     icon: ""
     date_start: 2011-09-01
-    date_end: 2016-1-31
+    date_end: 2016-01-31
     summary: |
       Focus in control systems, power electronics, and power systems.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
+  - position: Senior Engineer
+    company_name: Motif Neurotech
     company_url: "https://ai.meta.com/"
     icon: ""
     date_start: 2020-01-01
@@ -91,9 +91,32 @@ work:
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 awards:
-  - title: Example Award
-    date: 2021-01-01
-    awarder: Example Organization
+  - title: Rising Stars in EECS
+    date: 2025-01-01
+    awarder: MIT 
     summary: |
       Description of the award.
+ - title: Lodieska Stockbridge Vaughn Fellowship
+    date: 2022-01-01
+    awarder: Rice University  
+    summary: |
+      Awarded to five graduate students for outstanding achievement and promise
+    - title: MobiCom’2022 Best Paper Award
+    date: 2022-01-01
+    awarder: ACM SiIGMOBILE
+    summary: |
+     Out of 317 submissions
+    - title: The Fifth Bioelectronic Medicine Summit Best Poster Award
+    date: 2022-01-01
+    awarder: The Fifth Bioelectronic Medicine
+    summary: |
+     
+    - title: Asilomar Bioelectronics Symposium Best Poster Award
+    date: 2022-01-01
+    awarder: Asilomar Bioelectronics Conference
+    summary: |
+      
+      
+
+    
 ---
