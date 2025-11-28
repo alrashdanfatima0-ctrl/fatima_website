@@ -93,28 +93,33 @@ work:
 awards:
   - title: Rising Stars in EECS
     date: 2025-01-01
-    awarder: MIT 
+    awarder: MIT
     summary: |
-      Description of the award.
- - title: Lodieska Stockbridge Vaughn Fellowship
+      A workshop for early-career researchers in EECS.
+
+  - title: Lodieska Stockbridge Vaughn Fellowship
     date: 2022-01-01
-    awarder: Rice University  
+    awarder: Rice University
     summary: |
-      Awarded to five graduate students for outstanding achievement and promise
- - title: MobiCom’2022 Best Paper Award
+      Awarded to five graduate students for outstanding achievement and promise.
+
+  - title: MobiCom’2022 Best Paper Award
     date: 2022-01-01
-    awarder: ACM SiIGMOBILE
+    awarder: ACM SIGMOBILE
     summary: |
-     Out of 317 submissions
- - title: The Fifth Bioelectronic Medicine Summit Best Poster Award
+      Out of 317 submissions.
+
+  - title: The Fifth Bioelectronic Medicine Summit Best Poster Award
     date: 2022-01-01
-    awarder: The Fifth Bioelectronic Medicine
+    awarder: The Fifth Bioelectronic Medicine Summit
     summary: |
-     
+       Elevated to oral presentation.
+
   - title: Asilomar Bioelectronics Symposium Best Poster Award
     date: 2022-01-01
     awarder: Asilomar Bioelectronics Conference
     summary: |
+      Elevated to oral presentation.
       
       
 
