@@ -61,7 +61,7 @@ education:
     date_end: 2024-05-01
     summary: |
       Thesis on _Wireless Magnetoelectric Communication for Bioelectronics_. Supervised by Prof. Jacob Robinson. 
-    button:
+    #button:
      # text: 'Read Thesis'
      # url: 'https://example.com/thesis.pdf'
   - area: MS Electrical Engineering 
