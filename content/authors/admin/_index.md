@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Fatima Alrashdan
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Fatima
+last_name: Alrashdan
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🧠 🫀 
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,25 +27,25 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Rice University & Motif Neurotech
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:alex.johnson@meta.com'
+    #  label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://x.com/FatimaRashdan
+  #- icon: brands/github
+  # url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/fatima-al-rashdan-a78340107
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=VS3C7EQAAAAJ&hl=en
+ # - icon: academicons/orcid
+  #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
@@ -54,17 +54,17 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Electrical and Computer Engineering (Neuroengineering Focus)
+    institution: Rice University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2019
+    date_end: 2024
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
+  - area: MS Electrical Engineering 
     institution: Carnegie Mellon University
     icon: ""
     date_start: 2013-09-01
